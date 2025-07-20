@@ -73,7 +73,7 @@ recurring-date-picker-app/
 
 ## 🖼️ Demo
 
-Coming soon... 
+https://www.loom.com/share/357530fd000f40399e2fcd03254a702c?sid=e7074a51-0b49-469d-b5f2-9c8194d70101
 
 ## 📌 To-Do (Optional Enhancements)
 
